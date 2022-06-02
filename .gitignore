@@ -1,0 +1,13 @@
+*.sln
+*.vcxproj
+*.user
+*.filters
+.vs
+*.tlog
+*.obj
+*.idb
+*.pdb
+*.log
+*.recipe
+*.ilk
+*.txt

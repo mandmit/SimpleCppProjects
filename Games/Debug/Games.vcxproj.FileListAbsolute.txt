@@ -1,0 +1,2 @@
+D:\Learning C++\Games\Debug\Games.exe
+D:\MyOwnC++Projects\Games\Debug\GuessTheNumberWithComputer.exe
