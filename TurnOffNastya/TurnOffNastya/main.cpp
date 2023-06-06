@@ -8,7 +8,8 @@ int main() {
 		std::cin >> m;
 	}
 	m *= 60;
-	std::string command("shutdown /s /t " + std::to_string(m));
+	std::string command("shutdown /s /f /t " + std::to_string(m));
+	//shutdown -s //for canceling shutdown
 	const char* arr = command.c_str();
 	std::cout << arr;
 	system(arr);
